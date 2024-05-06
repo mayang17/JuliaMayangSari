@@ -1,11 +1,12 @@
 # Julia Mayang Sari
 
-Hi! 👋 I'm Julia Mayang Sari, a computer science student at Bengkulu University.
-
+Hi! 👋 I'm  Mayang , a computer science student at Bengkulu University.
+Bissmillah, Assalammualaikum wr.wb.
+<img src="ft.jpg" style="float: right; margin-left: 20px; width: 4cm; height: 6cm;">
 ## Biodata
 - **Nama**: Julia Mayang Sari
 - **Alamat**: Jl. WR. Supratman No. 24 RT.17 RW.01, Kel. Kandang Limun, Kec. Muara Bangka Hulu
-- **Foto**: <img src="ft.jpg" style="float: right; margin-left: 20px;">
+
 
 ## 📚 Pendidikan
 - SD Negeri 112 Seluma: Tebat Sibun, Kec. Talo Kecil, Kab. Seluma (2010-2016)
