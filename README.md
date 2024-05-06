@@ -1,8 +1,10 @@
 # Julia Mayang Sari
 
-Hi! 👋 I'm  Mayang , a computer science student at Bengkulu University.
-Bissmillah, Assalammualaikum wr.wb.
+Hi! 👋 I'm  Mayang 
+- a computer science student at Bengkulu University.
+- Bissmillah, Assalammualaikum wr.wb.
 <img src="ft.jpg" style="float: right; margin-left: 20px; width: 4cm; height: 6cm;">
+
 ## Biodata
 - **Nama**: Julia Mayang Sari
 - **Alamat**: Jl. WR. Supratman No. 24 RT.17 RW.01, Kel. Kandang Limun, Kec. Muara Bangka Hulu
@@ -44,4 +46,4 @@ Bissmillah, Assalammualaikum wr.wb.
 - [Portfolio Link](https://mayang17.github.io/mayangindex.html/)
 
 ## ⚡ Fun Fact
-Saya pikir saya lucu 😄
+ Introvert😄
